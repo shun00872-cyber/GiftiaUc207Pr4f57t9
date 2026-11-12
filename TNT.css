@@ -39,8 +39,6 @@ body{
     background-color: #262626;
     margin-bottom: 12px;
     padding: 12px 18px;
-    border-radius: 8px;
-    border-left: 4px solid #ff4747;
     font-size: 0.95rem;
 }
 
@@ -63,5 +61,4 @@ body{
 .TNT img{
     max-width: 100%;
     height: auto;
-    border-radius: 10px;
 }
