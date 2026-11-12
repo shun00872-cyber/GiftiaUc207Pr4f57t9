@@ -7,14 +7,6 @@ body{
     line-height: 1.8;
 }
 
-.TNT {
-    background-color: transparent; /* 移除背景色 */
-    padding: 0;                    /* 移除內距 */
-    border: none;                  /* 移除外框 */
-    box-shadow: none;              /* 移除陰影 */
-    text-align: left;
-}
-
 .all{
     max-width: 700px;
     margin: 0 auto;
@@ -48,8 +40,6 @@ body{
     margin-bottom: 12px;
     padding: 12px 18px;
     font-size: 0.95rem;
-
-    border-radius: 0;
 }
 
 .notes p{
@@ -71,6 +61,4 @@ body{
 .TNT img{
     max-width: 100%;
     height: auto;
-
-    border-radius: 0;
 }
